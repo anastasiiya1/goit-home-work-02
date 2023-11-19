@@ -48,9 +48,12 @@ a {
   color: #404bbf;
 }
 
-.contacts-link {
+address {
   font-style: normal;
 }
+/* .contacts-link {
+  font-style: normal;
+} */
 
 .contacts-list {
   letter-spacing: 0.02em;
