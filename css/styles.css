@@ -35,7 +35,7 @@ a {
   color: #2e2f42;
 }
 
-.nav-menu-list {
+.nav-menu-item {
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
@@ -44,8 +44,12 @@ a {
   color: #404bbf;
 }
 
-.nav-menu-list .nav-menu-item:active {
-  text-decoration: underline;
+.nav-menu-list .nav-menu-item:focus {
+  color: #404bbf;
+}
+
+.contacts-link {
+  font-style: normal;
 }
 
 .contacts-list {
